@@ -1,0 +1,1 @@
+This notebook implements a gradient descent algorithm using backprop for a shallow neural network with one hidden layer and a sigmoid activation. This neural network can be used for a shallow binary classification task. The purpose is to illustrate how backprop algorithm works on a neural network with a hidden layer.
